@@ -16,7 +16,7 @@ const SeatMapHeader: React.FC<SeatMapHeaderProps> = ({ eventName }) => {
       {/* Breadcrumb */}
       <div className="flex items-center gap-2 text-l font-semibold">
         <span className="rounded bg-fuchsia-600 px-2 py-1 text-white text-xl">
-          TickYourList
+          Seating-Chart
         </span>
         <span className="text-sm font-medium text-gray-500">
           › 
